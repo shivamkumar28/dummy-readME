@@ -29,16 +29,7 @@ import com.facebook.react.modules.network.OkHttpClientProvider;
 OkHttpClientProvider.setOkHttpClientFactory(new CustomNetworkModule(this));
 ```
 
-
-## Usage
-
-```js
-import { ChuckerView } from "react-native-chucker";
-
-// ...
-
-<ChuckerView color="tomato" />
-```
+---
 
 ## Contributing
 
