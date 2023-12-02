@@ -19,7 +19,6 @@ yarn add react-native-chucker
 #### Install Dependencies
 
 - Insert the following line in import section in `android/app/src/main/.../MainApplication.java`:
-- 
 ```java
 import com.chucker.CustomNetworkModule;
 import com.facebook.react.modules.network.OkHttpClientProvider;
