@@ -14,7 +14,7 @@ npm install react-native-chucker
 yarn add react-native-chucker
 ```
 
-## iOS
+## Android
 
 #### Install Dependencies
 
