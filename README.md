@@ -14,10 +14,12 @@ npm install react-native-chucker
 
 #### Install Dependencies
 
-Update Gradle Setting
+Update mainApplication.java 
+
 ``` njbnj
 knk
 ```
+
 
 ## Usage
 
