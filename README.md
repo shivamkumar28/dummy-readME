@@ -19,6 +19,7 @@ yarn add react-native-chucker
 #### Install Dependencies
 
 Insert the following lines inside the onCreate block in `MainApplication.java`:
+
   	```
     OkHttpClientProvider.setOkHttpClientFactory(new CustomNetworkModule(this));
   	```
