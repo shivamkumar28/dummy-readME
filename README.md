@@ -9,7 +9,7 @@ Apps using **react-native-chucker** will display a **notification** showing a su
 ```sh
 npm install react-native-chucker
 ```
-OR
+ OR
 ```sh
 yarn add react-native-chucker
 ```
