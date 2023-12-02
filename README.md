@@ -10,6 +10,15 @@ Apps using **react-native-chucker** will display a **notification** showing a su
 npm install react-native-chucker
 ```
 
+## iOS
+
+#### Install Dependencies
+
+Update Gradle Setting
+``` njbnj
+knk
+```
+
 ## Usage
 
 ```js
